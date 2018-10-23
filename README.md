@@ -1,6 +1,6 @@
 
 Hello World!
-This is **_Anick_**.
+This is **Anick**.
 
 This repository consists of my submissions at Leetcode OJ.
 
