@@ -20,3 +20,7 @@
 ##### LL
 
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+##### Bit Manipulation
+
+> - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
