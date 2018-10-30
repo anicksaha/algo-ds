@@ -9,6 +9,8 @@
 > - [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)
 
 ##### Adhoc v3
+
+> - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 > - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 
 ##### Maths
