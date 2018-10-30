@@ -2,6 +2,7 @@
 
 > - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 > - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+> - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 
 ##### Adhoc v2
 
@@ -12,6 +13,7 @@
 
 > - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 > - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
+> - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 
 ##### Maths
 
@@ -22,6 +24,10 @@
 ##### LL
 
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+
+##### String 
+
+> - [Reverse only letters](https://leetcode.com/problems/reverse-only-letters/description/)
 
 ##### Bit Manipulation
 
