@@ -2,6 +2,7 @@
 > - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
 
 ##### Adhoc v1
+> - [3 Sum](https://leetcode.com/problems/3sum/)
 > - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 > - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 > - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
