@@ -8,8 +8,15 @@
 > - [LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
 > - [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)
 
+##### LL
+> - [Flatten a multi-level Linked List](https://www.geeksforgeeks.org/flatten-a-multi-level-linked-list-set-2-depth-wise/)
+> - [Add two numbers represented by Linked Lists](https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
+
 ##### BST
 > - [Sorted Array to Balanced BST](https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
 
-##### DP | Adhoc
+##### Arrays
+> - [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
+
+##### Adhoc v2
 > - [Maximum profit by buying and selling a share at most k times](https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/)
