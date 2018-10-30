@@ -1,6 +1,9 @@
 ##### Adhoc
-
 > - [Find all triplets with zero sum](https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/)
+
+##### Sorting and Search
+> - [Sort a stack using a temporary stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)
+> - [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 > - [Sort array after converting elements to their squares in O(n)](https://www.geeksforgeeks.org/sort-array-converting-elements-squares/)
 
 ##### DP 
@@ -15,10 +18,6 @@
 
 ##### BST
 > - [Sorted Array to Balanced BST](https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
-
-##### Sorting and Search
-> - [Sort a stack using a temporary stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)
-> - [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 
 ##### Adhoc v2
 > - [Maximum profit by buying and selling a share at most k times](https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/)
