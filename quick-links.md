@@ -7,6 +7,7 @@
 > - [LIS](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/)
 > - [LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
 > - [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)
+> - [Top 20 DP Qs](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 
 ##### LL
 > - [Flatten a multi-level Linked List](https://www.geeksforgeeks.org/flatten-a-multi-level-linked-list-set-2-depth-wise/)
