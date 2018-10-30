@@ -15,7 +15,8 @@
 ##### BST
 > - [Sorted Array to Balanced BST](https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
 
-##### Arrays
+##### Sorting and Search
+> - [Sort a stack using a temporary stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)
 > - [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 
 ##### Adhoc v2
