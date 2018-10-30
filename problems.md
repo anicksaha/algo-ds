@@ -18,10 +18,13 @@
 > - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
 
-##### Maths
+##### Maths v1
 > - [Nth digit](https://leetcode.com/problems/nth-digit/description/)
 > - [Reach a number](https://leetcode.com/problems/reach-a-number/description/)
 > - [Letter case permutation](https://leetcode.com/problems/letter-case-permutation/description/)
+
+##### Maths v2
+> - [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
 
 ##### LL and Trees
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
@@ -35,3 +38,6 @@
 
 ##### Dynamic Programming
 > - Refer [here](https://github.com/anicksaha/leetcode/blob/master/dp.md).
+
+##### Graphs
+> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/graphs.md).
