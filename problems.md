@@ -1,5 +1,5 @@
 ##### Starters
-> - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [[Sol]](https://github.com/anicksaha/leetcode/blob/master/codes/888.%20Fair%20Candy%20Swap.cpp)
+> - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
 
 ##### Adhoc v1
 > - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
