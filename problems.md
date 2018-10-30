@@ -18,7 +18,7 @@
 > - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
 
-##### Maths v1
+##### Maths
 > - Refer [here](https://github.com/anicksaha/leetcode/blob/master/maths.md).
 
 ##### LL and Trees
@@ -33,6 +33,3 @@
 
 ##### Dynamic Programming
 > - Refer [here](https://github.com/anicksaha/leetcode/blob/master/dp.md).
-
-##### Graphs
-> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/graphs.md).
