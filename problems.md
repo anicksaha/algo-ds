@@ -5,6 +5,7 @@
 
 ##### Adhoc v2
 
+> - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 > - [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)
 
 ##### Adhoc v3
