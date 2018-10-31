@@ -21,7 +21,7 @@
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
 
 ##### Maths
-> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/maths.md).
+> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/resources/maths.md).
 
 ##### LL and Trees
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
@@ -37,4 +37,4 @@
 > - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
 
 ##### Dynamic Programming
-> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/dp.md).
+> - Refer [here](https://github.com/anicksaha/leetcode/blob/master/resources/dp.md).
