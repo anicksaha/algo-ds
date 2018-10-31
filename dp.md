@@ -6,3 +6,6 @@
 > - [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 > - [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)
 > - [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+
+##### Subset Sum
+> - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
