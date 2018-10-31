@@ -27,6 +27,9 @@
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 > - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 
+##### Tries
+> - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [[My Sol]](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/188009/Simple-C++-solution!)
+
 ##### String 
 > - [Reverse only letters](https://leetcode.com/problems/reverse-only-letters/description/)
 
