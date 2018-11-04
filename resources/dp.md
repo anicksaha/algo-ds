@@ -9,3 +9,5 @@
 
 ##### Subset Sum
 > - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
+[[back]](https://github.com/anicksaha/resources/problems.md)
