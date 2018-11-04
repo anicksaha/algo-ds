@@ -10,4 +10,4 @@
 ##### Subset Sum
 > - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
-[[back]](https://github.com/anicksaha/resources/problems.md)
+[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/problems.md)
