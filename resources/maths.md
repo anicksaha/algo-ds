@@ -5,3 +5,6 @@
 
 ##### Maths v2
 > - [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
+
+[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/problems.md)
+
