@@ -26,6 +26,8 @@
 ##### LL and Trees
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 > - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+> - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+> - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 
 ##### Tries
 > - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
