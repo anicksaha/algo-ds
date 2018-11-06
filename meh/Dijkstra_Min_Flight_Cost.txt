@@ -45,7 +45,7 @@ Int getMinCost(vector<Price> prices, string source, string destination) {
                 Q.push(M[front.ADJ[i].first]);
             }
         }
-} 
+    } 
 
     return M[destination].dist;
 }
