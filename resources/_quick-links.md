@@ -17,7 +17,11 @@
 > - [Flatten a multi-level Linked List](https://www.geeksforgeeks.org/flatten-a-multi-level-linked-list-set-2-depth-wise/)
 > - [Add two numbers represented by Linked Lists](https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
 
+##### BT
+> - [LCA](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+
 ##### BST
+> - [LCA](https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
 > - [Sorted Array to Balanced BST](https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/)
 
 ##### Adhoc v2
