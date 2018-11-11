@@ -4,5 +4,6 @@
 > - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
 
 ##### [Weekly Contest 110](https://leetcode.com/contest/weekly-contest-110)
+> - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 > - [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
 > - [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
