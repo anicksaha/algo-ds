@@ -1,3 +1,5 @@
+[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/index.md)
+
 ##### Interview Guide
 
 > Outro! Well who cares about an outro anyway.. duh!
