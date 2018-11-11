@@ -1,3 +1,5 @@
+[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/index.md)
+
 ##### Starters
 > - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
 
