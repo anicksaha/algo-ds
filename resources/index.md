@@ -8,6 +8,6 @@
 >   * [DP](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/dp.md)
 >   * [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/maths.md)
 
-> - My curated list of [problems](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/leetcode-me.md)!
+> - [My curated list of problems!](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/leetcode-me.md)
 
 
