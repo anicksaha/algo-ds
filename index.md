@@ -10,4 +10,6 @@
 
 > - [My curated list of problems!](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/leetcode-me.md)
 
+> - [Quick Links](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/_quick-links.md)
+
 
