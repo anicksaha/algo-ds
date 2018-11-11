@@ -1,4 +1,4 @@
-[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/index.md)
+[[back]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
 ##### Interview Guide
 
