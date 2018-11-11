@@ -1,5 +1,7 @@
 ### Index:
 
+> - [Interview Guide](https://github.com/anicksaha/leetcode/blob/master/resources/interview-guide.md)
+
 > - [Contests](https://github.com/anicksaha/leetcode/blob/master/resources/contests.md)
 
 > - [Problems](https://github.com/anicksaha/leetcode/blob/master/resources/problems.md)
