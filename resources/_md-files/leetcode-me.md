@@ -1,2 +1,2 @@
-[[back]](https://github.com/anicksaha/leetcode/blob/master/index.md)
+[[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
