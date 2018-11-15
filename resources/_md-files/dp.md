@@ -2,6 +2,7 @@
 [[back]](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/problems.md)
 
 ##### Starters
+> - [Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
