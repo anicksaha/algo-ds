@@ -13,3 +13,7 @@
 
 ##### Subset Sum
 > - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+
+##### Adhoc
+
+> - [Word Break](https://leetcode.com/problems/word-break/description/)
