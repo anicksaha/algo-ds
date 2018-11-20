@@ -1,8 +1,5 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
-##### Starters
-> - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
-
 ##### Adhoc v1
 > - [3 Sum](https://leetcode.com/problems/3sum/)
 > - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
