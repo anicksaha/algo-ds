@@ -14,7 +14,10 @@
 ##### Subset Sum
 > - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
-##### Adhoc
+##### Strings
 
 > - [Word Break](https://leetcode.com/problems/word-break/description/)
+> - [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 > - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
+
+##### Adhoc
