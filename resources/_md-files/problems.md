@@ -17,7 +17,6 @@
 
 ##### Adhoc v3
 > - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-> - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 > - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 > - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
