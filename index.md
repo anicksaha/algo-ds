@@ -6,7 +6,7 @@
 
 > - [Problems](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/problems.md)
 >   * [DP](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/dp.md)
->   * [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/maths.md)
+>   * [Design](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/design.md)
 >   * [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/maths.md)
 >   * [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/maths.md)
 >   * [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/maths.md)
