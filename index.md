@@ -5,7 +5,7 @@
 > - [Contests](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/contests.md)
 
 
-### Problems
+### Problems:
 > - [Starters](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/starters.md)
 > - [Adhoc](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/adhoc.md)
 > - [Data Structures](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/data-structures.md)
@@ -13,7 +13,7 @@
 > - [Design](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/design.md)
 > - [Maths](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/maths.md)
 
-### Links
+### Links:
 > - [Quick Links](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/quick-links.md)
 
 
