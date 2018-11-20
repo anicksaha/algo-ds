@@ -16,4 +16,9 @@
 ### Links:
 > - [Quick Links](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/quick-links.md)
 
+### Other Resources:
+> - [Pramp](https://www.pramp.com/)
+> - [Facebook Codelab](https://codelab.interviewbit.com/)
+> - [Codewars](https://www.codewars.com/)
+
 
