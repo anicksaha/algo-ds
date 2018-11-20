@@ -1,5 +1,7 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
+### Dynamic Programming
+
 ##### Starters
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
