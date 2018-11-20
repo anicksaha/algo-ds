@@ -1,4 +1,4 @@
-# Index:
+# Index
 
 > - [Interview Guide](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/interview-guide.md)
 
