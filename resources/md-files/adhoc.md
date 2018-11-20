@@ -17,6 +17,5 @@
 > - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
 
-##### Bit Manipulation
-> - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
+##### Hard
 
