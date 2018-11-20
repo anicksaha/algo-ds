@@ -1,5 +1,9 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
+##### Adhoc
+> - [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+> - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
+
 ##### Starters
 > - [Nth digit](https://leetcode.com/problems/nth-digit/description/)
 > - [Reach a number](https://leetcode.com/problems/reach-a-number/description/)
