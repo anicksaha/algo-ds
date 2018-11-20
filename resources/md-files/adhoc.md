@@ -10,18 +10,12 @@
 > - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 > - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
 > - [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)
-> - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
 ##### Adhoc v3
 > - [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 > - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
 > - [Walking robot simulation](https://leetcode.com/problems/walking-robot-simulation/description/)
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
-
-##### String 
-> - [Reverse only letters](https://leetcode.com/problems/reverse-only-letters/description/)
-> - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-> - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
 
 ##### Bit Manipulation
 > - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
