@@ -16,3 +16,8 @@
 ##### Tries
 > - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 > - [ Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)
+
+##### String 
+> - [Reverse only letters](https://leetcode.com/problems/reverse-only-letters/description/)
+> - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+> - [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)
