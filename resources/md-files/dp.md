@@ -21,4 +21,6 @@
 > - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
 
 ##### Adhoc
+
 > - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+> - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
