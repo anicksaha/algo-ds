@@ -1,5 +1,4 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
-[[back]](https://github.com/anicksaha/leetcode/blob/master/resources/_md-files/problems.md)
 
 ##### Starters
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
