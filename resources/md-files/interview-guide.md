@@ -18,7 +18,7 @@ The different types of interview I've encountered:
 - Algorithm Design Interviews
 - Problem Solving/Coding
 - Architecture Design Interviews
-- Understanding Operating Systems
+- Understanding of Operating Systems/Databases/Networks/Web
 - Behavioral Interviews
 - Culture Fit
 - Pair Programming
