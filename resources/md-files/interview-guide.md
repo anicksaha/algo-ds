@@ -22,7 +22,8 @@ _Mock Interviews:_
 _Architecture Design:_
 > - [ Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 
-- __Behavioural:__
+_Behavioural:_
+> - [Intro to Behavioural Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
 
 
 
