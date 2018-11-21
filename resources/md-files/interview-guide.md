@@ -17,12 +17,13 @@
 > - [interviewing.io](https://interviewing.io/)
 > - [Careercup (Paid)](https://careercup.com/interview)
 
-##### Algorithms:
+- __Algorithms:__
 
 
-##### Architecture Design:
+- __Architecture Design:__
+> - [ Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 
-##### Behavioural:
+- __Behavioural:__
 
 
 
