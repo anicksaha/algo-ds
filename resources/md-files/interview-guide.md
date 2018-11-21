@@ -15,7 +15,7 @@ _Types:_
 
 The different types of interview I encountered:
 
-- Algorithm Interviews
+- Algorithm Design Interviews
 - Problem Solving/Coding
 - Architecture Design Interviews
 - Understanding Operating Systems
