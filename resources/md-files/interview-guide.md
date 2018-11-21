@@ -18,6 +18,12 @@ _Mock Interviews:_
 > - [Careercup (Paid)](https://careercup.com/interview)
 
  _Algorithms:_
+> - [CTCI - Book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1506042558&sr=1-1&keywords=cracking+the+code+interview)
+> - [Leetcode](http://leetcode.com/)
+> - [Hackerrank](https://www.hackerrank.com/)
+> - [CS50 - Youtube](https://www.youtube.com/user/cs50tv)
+> - [Facebook Codelab](https://codelab.interviewbit.com/)
+> - [Codewars](https://www.codewars.com/)
 
 _Architecture Design:_
 > - [ Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
