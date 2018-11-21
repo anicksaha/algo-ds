@@ -2,6 +2,8 @@
 
 # Interview Guide
 
+> Interviewing is a skill!
+
 ### Prepping:
 
 ### Outro:
