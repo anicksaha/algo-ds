@@ -13,7 +13,7 @@ _Areas:_
 
 _Types:_
 
-The different types of interview I encountered:
+The different types of interview I've encountered:
 
 - Algorithm Design Interviews
 - Problem Solving/Coding
