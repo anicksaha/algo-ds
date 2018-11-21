@@ -12,15 +12,14 @@
 
 ### Resources:
 
-- __Mock Interviews:__
+_Mock Interviews:_
 > - [Pramp](https://www.pramp.com/)
 > - [interviewing.io](https://interviewing.io/)
 > - [Careercup (Paid)](https://careercup.com/interview)
 
-- __Algorithms:__
+ _Algorithms:_
 
-
-- __Architecture Design:__
+_Architecture Design:_
 > - [ Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 
 - __Behavioural:__
