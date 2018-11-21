@@ -3,8 +3,27 @@
 # Interview Guide
 
 > __Interviewing is a skill!__
+<br>
+As with many other things in life, practice will improve your confidence.
 
 ### Prepping:
+_Areas:_
+
+
+
+_Types:_
+
+The different types of interview I encountered:
+
+- Algorithm Interviews
+- Problem Solving/Coding
+- Architecture Design Interviews
+- Understanding Operating Systems
+- Behavioral Interviews
+- Culture Fit
+- Pair Programming
+- Finding and Patching/fixing Bugs
+- Testing Domain Knowledge/Resume discussion
 
 ### Outro:
 > - [Question at the end! (Medium Blog article)](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
