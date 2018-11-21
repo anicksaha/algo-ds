@@ -12,7 +12,7 @@
 
 ### Resources:
 
-__Mock Interviews:__
+- __Mock Interviews:__
 > - [Pramp](https://www.pramp.com/)
 > - [interviewing.io](https://interviewing.io/)
 > - [Careercup (Paid)](https://careercup.com/interview)
