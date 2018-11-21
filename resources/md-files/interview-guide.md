@@ -2,7 +2,7 @@
 
 # Interview Guide
 
-> Interviewing is a skill!
+> __Interviewing is a skill!__
 
 ### Prepping:
 
