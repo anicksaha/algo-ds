@@ -45,7 +45,8 @@ _Mock Interviews:_
 > - [Codewars](https://www.codewars.com/)
 
 _Architecture Design:_
-> - [ Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+> - [Intro to Architecture and Systems Design Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+> - [System Design - InterviewBit](https://www.interviewbit.com/courses/system-design/)
 
 _Behavioural:_
 > - [Intro to Behavioural Interviews - Jackson Gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
