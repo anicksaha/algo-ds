@@ -7,9 +7,6 @@
 As with many other things in life, practice will improve your confidence.
 
 ### Prepping:
-_Areas:_
-
-
 
 _Types:_
 
