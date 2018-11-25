@@ -5,6 +5,9 @@
 > - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 > - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)
 
+##### [Weekly Contest 111](https://leetcode.com/contest/weekly-contest-111) (Nov 27,2018)
+> - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) [To_Do]
+
 ##### [Weekly Contest 110](https://leetcode.com/contest/weekly-contest-110) (Nov 10,2018)
 > - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
 > - [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
