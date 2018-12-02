@@ -5,7 +5,7 @@
 
 ### Problem Solving:
 _Problems:_
-> - [Leetcode - Index](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
+> - [Leetcode - Index](https://github.com/anicksaha/uplift/blob/master/codes-leetcode)
 
 ### Links:
 > - [Quick Links](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/quick-links.md)
