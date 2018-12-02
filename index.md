@@ -1,7 +1,6 @@
 # Index
 
-> - [All you gotta know about Interviews!](https://github.com/anicksaha/uplift/blob/master/resources/md-files/interview-guide.md)
-
+> - [Interviews 101](https://github.com/anicksaha/uplift/blob/master/resources/md-files/interview-guide.md)
 
 ### Problem Solving:
 
