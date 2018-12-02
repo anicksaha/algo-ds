@@ -8,13 +8,9 @@ public:
         // write your code here
         unordered_map<int,int> M;
         int currSum = 0;
+        M[0] = -1;
         for(int i=0;i<nums.size();i++) {
             currSum+=nums[i];
-            if(nums[i]==0) {
-                return {i,i};  
-            } else if(currSum==0) {
-                return {0,i};
-            }
             if(M.find(currSum) == M.end()) {
                 M[currSum] = i;
             } else {
