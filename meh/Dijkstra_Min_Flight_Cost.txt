@@ -65,4 +65,4 @@ B 10 #
 C 20 # 
 D 25 #
 
-// Refer: https://github.com/anicksaha/codes/blob/master/programs%E2%84%A2/DIJKSTRA_priority_queue.cpp
+// Refer: https://github.com/anicksaha/uplift/blob/master/codes-spoj/Summer%202014/HIGHWAYS-DIJKSTRA_priority_queue.cpp
