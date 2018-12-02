@@ -1,4 +1,4 @@
-[[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
+[[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
 ##### [Weekly Contest 113](https://leetcode.com/contest/weekly-contest-113) (Dec 1,2018)
 > - [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
