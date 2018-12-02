@@ -1,4 +1,4 @@
-[[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
+[[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
 > - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)
 > - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
