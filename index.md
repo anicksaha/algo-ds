@@ -1,6 +1,7 @@
 # Index
 
-> - [Interviews 101](https://github.com/anicksaha/uplift/blob/master/resources/md-files/interview-101.md)
+> - [Career-101](https://github.com/anicksaha/uplift/blob/master/resources/md-files/career-101.md)
+> - [Interviews-101](https://github.com/anicksaha/uplift/blob/master/resources/md-files/interview-101.md)
 
 ### Problem Solving:
 
