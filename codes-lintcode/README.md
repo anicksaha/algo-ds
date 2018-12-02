@@ -4,7 +4,7 @@
 
 Some good problems:
 
-- [Adhoc](https://github.com/anicksaha/uplift/blob/master/codes-lintcode/md-files/problems.md#adhoc-v1)
+- [Adhoc](https://github.com/anicksaha/uplift/blob/master/codes-lintcode/md-files/problems.md#adhoc)
 
 
 
