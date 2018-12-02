@@ -1,6 +1,6 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
-# Interview Guide
+# Interview 101
 
 > __Interviewing is a skill!__
 <br>
