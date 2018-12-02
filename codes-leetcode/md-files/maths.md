@@ -1,4 +1,4 @@
-[[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
+[[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
 ##### Adhoc
 > - [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
