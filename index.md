@@ -7,7 +7,7 @@
 
 > - [Contests](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/contests.md)
 
-> Problems:
+__Problems:__
 > - [Starters](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/starters.md)
 > - [Adhoc](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/adhoc.md)
 > - [DS](https://github.com/anicksaha/leetcode/blob/master/resources/md-files/data-structures.md)
