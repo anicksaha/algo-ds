@@ -1,5 +1,11 @@
 [[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
 
+##### [Weekly Contest 113](https://leetcode.com/contest/weekly-contest-113) (Dec 1,2018)
+> - [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
+> - [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+> - [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) [Simulation]
+> - [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) [To_Do]
+
 ##### [Weekly Contest 112](https://leetcode.com/contest/weekly-contest-112) (Nov 24,2018)
 > - [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)
 > - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
