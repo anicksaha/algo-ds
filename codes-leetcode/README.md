@@ -11,3 +11,7 @@ _Problems:_
 > - [Design](https://github.com/anicksaha/leetcode/blob/master/codes-leetcode/md-files/design.md)
 > - [Maths](https://github.com/anicksaha/leetcode/blob/master/codes-leetcode/md-files/maths.md)
 
+
+### Links: 
+
+> - [Quick links](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/md-files/quick-links.md)
