@@ -1,4 +1,4 @@
-### Index
+# Index
 
 > - [Contests](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/md-files/contests.md)
 
