@@ -5,6 +5,7 @@
 ##### Starters
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
+> - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ##### LIS v2
