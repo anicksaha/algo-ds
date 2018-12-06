@@ -3,11 +3,11 @@
 
 ### Data Structures
 
-##### LL
+##### Linked List
 > - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
-##### Trees
+##### Tree
 > - [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 > - [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 > - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
