@@ -1,5 +1,9 @@
 [[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
+
+##### ADS (Advanced Data Structures)
+ > Refer [here](https://www.geeksforgeeks.org/advanced-data-structures/).
+ 
 ##### Adhoc
 > - [Find all triplets with zero sum](https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/)
 
