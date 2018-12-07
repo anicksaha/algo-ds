@@ -10,14 +10,14 @@
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
 ##### Traversals
+> - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 > - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 
 ##### Tree
 > - [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
 > - [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)
 > - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
-> - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
-> - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+
 
 ##### Tries
 > - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
