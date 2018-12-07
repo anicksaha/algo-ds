@@ -4,6 +4,8 @@
 ### Data Structures
 
 ##### Linked List
+> - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+> - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)  TC: O(n) | SC: O(1)
 > - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 > - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
