@@ -29,6 +29,7 @@
 > - [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
 
 ##### [Weekly Contest 109](https://leetcode.com/contest/weekly-contest-109) (Nov 3,2018)
+> - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/)
 > - [Knight Dialer](https://leetcode.com/problems/knight-dialer/description/)
 > - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
 
