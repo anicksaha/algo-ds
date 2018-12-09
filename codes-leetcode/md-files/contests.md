@@ -1,5 +1,8 @@
 [[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
+##### [Weekly Contest 114](https://leetcode.com/contest/weekly-contest-114) (Dec 8,2018)
+> - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+
 ##### [Weekly Contest 113](https://leetcode.com/contest/weekly-contest-113) (Dec 1,2018)
 > - [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
 > - [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
