@@ -1,5 +1,11 @@
 [[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
+##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019)
+> - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
+> - []
+> - []
+> - []
+
 ##### [Weekly Contest 114](https://leetcode.com/contest/weekly-contest-114) (Dec 8,2018)
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 > - [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/)
