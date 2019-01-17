@@ -6,6 +6,9 @@
 > - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
+##### State Based DP
+> - [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
+
 ##### Coin Change
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
