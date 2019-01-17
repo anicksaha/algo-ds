@@ -2,11 +2,14 @@
 
 ### Dynamic Programming
 
-##### Starters
-> - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
-> - [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
+##### Classics
 > - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+##### Coin Change
+> - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
+> - [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+> - [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 
 ##### LIS v2
 > - [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
