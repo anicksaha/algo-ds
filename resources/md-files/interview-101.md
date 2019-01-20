@@ -1,4 +1,4 @@
-[[Index]](https://github.com/anicksaha/leetcode/blob/master/index.md)
+[[Index]](https://github.com/anicksaha/algo-ds/blob/master/README.md)
 
 # Interview 101
 
