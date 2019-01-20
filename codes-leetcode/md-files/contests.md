@@ -1,5 +1,10 @@
 [[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
 
+##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019)
+
+##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019)
+
+
 ##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019)
 > - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
 > - []
