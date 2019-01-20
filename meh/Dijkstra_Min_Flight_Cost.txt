@@ -1,0 +1,68 @@
+Given a list of flights, where each flight is a starting city, an ending city, a price, we want to determine the cheapest flight from A to B
+[
+  [“Shanghai”, “London”, “150”],
+  [“London”, “Tokyo”, “200”],
+]
+
+Struct Price {
+    string from,to;
+    int cost;
+};
+
+Struct Node {
+    String from; 
+    vector<pair<string,int>> ADJ; // pair { first: to, second: corresponding cost}    
+    int dist;
+    Node() {
+        Dist = INT_MAX;
+    }
+};
+
+Int getMinCost(vector<Price> prices, string source, string destination) {
+    map<string,Node> M;
+
+    for(int i=0;i<prices.size();i++) {
+            if(M.find(prices[i].from)!=M.end()) {
+                M[prices[i].from].ADJ.push_back({prices[i].to, prices[i].cost});
+            } else {
+                Node N;
+                N.from = prices[i].from;
+                N.ADJ.push_back({prices[i].to, prices[i].cost});
+                M[prices[i].from] = N;
+            }
+    }
+
+    M[source].dist = 0; //
+    priority_queue<Node> Q;
+    Q.push(M[source]);
+
+    while(!Q.empty()) {
+        Node front = Q.front();
+        Q.pop();
+        for(int i=0;i<front.ADJ.size(); i++) {
+            if(M[front.ADJ[i].first].dist > front.dist + front.ADJ[i].second) {
+                M[front.ADJ[i].first].dist = front.dist + front.ADJ[i].second;
+                Q.push(M[front.ADJ[i].first]);
+            }
+        }
+    } 
+
+    return M[destination].dist;
+}
+
+
+
+      B 100
+10
+A         D
+20
+    C 5
+
+25 
+
+A 0 #
+B 10 #
+C 20 # 
+D 25 #
+
+// Refer: https://github.com/anicksaha/uplift/blob/master/codes-spoj/Summer%202014/HIGHWAYS-DIJKSTRA_priority_queue.cpp
