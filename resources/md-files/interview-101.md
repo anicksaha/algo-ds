@@ -23,7 +23,7 @@ The different types of interview I've encountered:
 - Testing Domain Knowledge/Resume discussion
 
 ### Outro:
-> - [Question at the end! (Medium Blog article)](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
+> - [Questions at the end! (Medium Blog article)](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
 > - [Good Questions to Ask at the End of the Job Interview](https://biginterview.com/blog/2011/08/best-questions-to-ask-end-interview.html)
 
 ### Resources:
